@@ -1,0 +1,6 @@
+my-penguins.csv
+my-penguins-with-groups.csv
+elbow.png
+kmeans_pca.png
+__pycache__/
+*.pyc
